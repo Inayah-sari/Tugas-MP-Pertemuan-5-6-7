@@ -5,10 +5,12 @@
 ![parsing dart](https://github.com/user-attachments/assets/d0e9c72c-9265-47b5-8e55-62a0046587d8)
 
 2. halaman_pertama.dart
-   ![halaman_pertama dart](https://github.com/user-attachments/assets/b2e0f0f38e0d-4319-8350-b11ba4025fa5)
+   ![halaman_pertama dart](https://github.com/user-attachments/assets/f164ad10-4942-46a4-81b5-512163fc7d2b)
 
 3. halaman_kedua.dart
-   ![halaman_kedua dart](https://github.com/user-attachments/assets/3dfd918fa94a-443a-bf32-218ac7bc1922)
+   ![halaman_kedua dart](https://github.com/user-attachments/assets/df0e5821-e1c1-4823-bcff-9f59b9bccec7)
+
+  
 
 
 # Pertemuan 6
