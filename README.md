@@ -1,8 +1,9 @@
 # Tugas-MP-Pertemuan-5-6-7
 
 # Pertemuan 5
+
 1. parsing.dart
-![parsing dart](https://github.com/user-attachments/assets/d0e9c72c-9265-47b5-8e55-62a0046587d8)
+   ![parsing dart](https://github.com/user-attachments/assets/61d1f455-2859-43a5-81b8-e1f49149f086)
 
 2. halaman_pertama.dart
    ![halaman_pertama dart](https://github.com/user-attachments/assets/f164ad10-4942-46a4-81b5-512163fc7d2b)
@@ -14,6 +15,7 @@
 
 
 # Pertemuan 6
+
 1. contoh_stateless.dart
    ![contoh stateless](https://github.com/user-attachments/assets/77f9897b5906-4941-9024-5aeb9696b039)
 
@@ -21,6 +23,7 @@
    ![contoh stateful](https://github.com/user-attachments/assets/bf157f5d7eef-4a18-88f6-3447668fd351)
 
 # Pertemuan 7
+
 1. mahasiwa_form.dart
    ![mahasiswaform](https://github.com/user-attachments/assets/e42814ac-9d004c51-9282-3654676687dd)
 
