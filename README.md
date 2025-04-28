@@ -4,15 +4,18 @@
 
 1. parsing.dart
    
-   ![parsing dart](https://github.com/user-attachments/assets/61d1f455-2859-43a5-81b8-e1f49149f086)
+   <img width="959" alt="parsing" src="https://github.com/user-attachments/assets/7bbce5de-1c51-458d-9ed7-7305cbd8cbcb" />
+
 
 2. halaman_pertama.dart
-   
-   ![halaman_pertama dart](https://github.com/user-attachments/assets/f164ad10-4942-46a4-81b5-512163fc7d2b)
 
-3. halaman_kedua.dart
+   <img width="959" alt="halamanpertama" src="https://github.com/user-attachments/assets/a4bde349-85bd-4045-a87d-15d0a994a16d" />
+
    
-   ![halaman_kedua dart](https://github.com/user-attachments/assets/df0e5821-e1c1-4823-bcff-9f59b9bccec7)
+4. halaman_kedua.dart
+   
+   <img width="959" alt="halamankedua" src="https://github.com/user-attachments/assets/1f06b20b-74cf-4a40-8b8e-967f1ea98845" />
+
 
   
 
