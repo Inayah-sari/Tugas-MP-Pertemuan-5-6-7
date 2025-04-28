@@ -20,10 +20,14 @@
 # Pertemuan 6
 
 1. contoh_stateless.dart
-   ![contoh stateless](https://github.com/user-attachments/assets/77f9897b5906-4941-9024-5aeb9696b039)
+   
+   ![contoh stateless](https://github.com/user-attachments/assets/6a93acf9-7f12-42b2-be46-bed099ae647c)
+
 
 2. contoh_stateful.dart
-   ![contoh stateful](https://github.com/user-attachments/assets/bf157f5d7eef-4a18-88f6-3447668fd351)
+
+   ![contoh stateful](https://github.com/user-attachments/assets/92c75286-ce3d-4f9e-a728-53f23f24d5c8)
+
 
 # Pertemuan 7
 
