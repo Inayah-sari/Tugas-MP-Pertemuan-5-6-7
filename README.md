@@ -32,10 +32,13 @@
 # Pertemuan 7
 
 1. mahasiwa_form.dart
-   ![mahasiswaform](https://github.com/user-attachments/assets/e42814ac-9d004c51-9282-3654676687dd)
+   
+  ![mahasiswaform](https://github.com/user-attachments/assets/54ab6d03-d7c7-4655-8846-2666944cb63f)
+
 
 2. detail_mahasiswa.dart
-   <img width="959" alt="detailmahasiswa" src="https://github.com/userattachments/assets/6662cceb-d31a-4a24-9c7b-fb3a0c60e300" />
+   
+  <img width="959" alt="detailmahasiswa" src="https://github.com/user-attachments/assets/05494ca6-3161-4f76-acea-172fbf7ea54d" />
 
 
 
