@@ -3,12 +3,15 @@
 # Pertemuan 5
 
 1. parsing.dart
+   
    ![parsing dart](https://github.com/user-attachments/assets/61d1f455-2859-43a5-81b8-e1f49149f086)
 
 2. halaman_pertama.dart
+   
    ![halaman_pertama dart](https://github.com/user-attachments/assets/f164ad10-4942-46a4-81b5-512163fc7d2b)
 
 3. halaman_kedua.dart
+   
    ![halaman_kedua dart](https://github.com/user-attachments/assets/df0e5821-e1c1-4823-bcff-9f59b9bccec7)
 
   
