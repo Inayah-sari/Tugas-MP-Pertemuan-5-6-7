@@ -34,7 +34,7 @@
 
 # Pertemuan 7
 
-1. mahasiwa_form.dart
+1. mahasiswa_form.dart
    
   ![mahasiswaform](https://github.com/user-attachments/assets/54ab6d03-d7c7-4655-8846-2666944cb63f)
 
