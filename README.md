@@ -2,7 +2,7 @@
 
 # Pertemuan 5
 1. parsing.dart
-   ![parsing dart](https://github.com/user-attachments/assets/ab533932-0f448dd-aeb4-5882f03d082d)
+![parsing dart](https://github.com/user-attachments/assets/d0e9c72c-9265-47b5-8e55-62a0046587d8)
 
 2. halaman_pertama.dart
    ![halaman_pertama dart](https://github.com/user-attachments/assets/b2e0f0f38e0d-4319-8350-b11ba4025fa5)
